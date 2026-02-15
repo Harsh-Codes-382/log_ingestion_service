@@ -34,7 +34,7 @@
 		<!-- Custom Maven package for logs schema and Autoconfigure Beans -->
 		<dependency>
 			<groupId>io.logsentinel</groupId>
-			<artifactId>log-sentinel-spring-boot-starter</artifactId>
+			<artifactId>log-sentinel-core</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 		<!-- Validation -->
